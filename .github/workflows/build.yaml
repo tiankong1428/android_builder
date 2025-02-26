@@ -29,4 +29,3 @@ jobs:
         with:
           name: my-build-apk
           path: ./**/*.apk
-
